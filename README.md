@@ -1,2 +1,2 @@
 # graphql-atom-tests
-testes with graphql + atom
+tests with graphql + atom
